@@ -1,10 +1,8 @@
 #<h1 align="center">Hi 👋, I'm SAZZAD</h1>
 <h3 align="center">CSE at EWU</h3>
 
-![Declare Variable, not War.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-1/p160x160/241795641_1250181105407132_3963649585657534720_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeH_vbVol3-yRa5_tBrFewr4GfZkv_eTAd8Z9mS_95MB3_3iwLwYJ5xhpyIWcXgC4-zhWVjqj15td9GwG5nPX5RZ&_nc_ohc=-YagWIi8vzAAX9FBi0K&_nc_ht=scontent.fdac22-1.fna&oh=00_AT_WKk9HrXZSSEuDiy4KliJYjLVethcCAXnWp3obdHbcGw&oe=61C95702)
+![Declare Variable, not War.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/222553587_1217531228672120_7685457896046205884_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF9OEvEilf_r9Jr83dxja4W7Qw9yw_5obTtDD3LD_mhtJiWg0Ifr2e0GMkONxaCZsPRC0FUFr8RYHzYkXX5BIVl&_nc_ohc=ci2vA4kmirgAX_MvxAD&tn=4HiuM3vHQO-3CHmB&_nc_ht=scontent.fdac22-1.fna&oh=00_AT80o_JV_8XQayHVCzSJit1WkD1D9lEQe6Rbo_z7Mx5QrA&oe=61C8E9DA)
 
-<h1 align="center">Hi 👋, I'm SAZZAD</h1>
-<h3 align="center">Declare Variable, not War.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzad-amt&label=Profile%20views&color=0e75b6&style=flat" alt="sazzad-amt" /> </p>
 
