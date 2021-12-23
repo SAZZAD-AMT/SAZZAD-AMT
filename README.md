@@ -1,9 +1,6 @@
 #<h1 align="center">Hi 👋, I'm SAZZAD</h1>
 <h3 align="center">CSE at EWU</h3>
-
-### Hi there 👋, Hi , I am SAZZAD 
-#### Declare Variable, not War.
-![Declare Variable, not War.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-1/p160x160/241795641_1250181105407132_3963649585657534720_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeH_vbVol3-yRa5_tBrFewr4GfZkv_eTAd8Z9mS_95MB3_3iwLwYJ5xhpyIWcXgC4-zhWVjqj15td9GwG5nPX5RZ&_nc_ohc=-YagWIi8vzAAX9FBi0K&_nc_ht=scontent.fdac22-1.fna&oh=00_AT_WKk9HrXZSSEuDiy4KliJYjLVethcCAXnWp3obdHbcGw&oe=61C95702)
+(https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-1/p160x160/241795641_1250181105407132_3963649585657534720_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeH_vbVol3-yRa5_tBrFewr4GfZkv_eTAd8Z9mS_95MB3_3iwLwYJ5xhpyIWcXgC4-zhWVjqj15td9GwG5nPX5RZ&_nc_ohc=-YagWIi8vzAAX9FBi0K&_nc_ht=scontent.fdac22-1.fna&oh=00_AT_WKk9HrXZSSEuDiy4KliJYjLVethcCAXnWp3obdHbcGw&oe=61C95702)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
