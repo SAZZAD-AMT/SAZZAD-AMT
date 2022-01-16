@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
 
-https://www.facebook.com/photo/?fbid=1217531225338787&set=a.115348138890440
-
 ![Declare Variable, not War.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/222553587_1217531228672120_7685457896046205884_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF9OEvEilf_r9Jr83dxja4W7Qw9yw_5obTtDD3LD_mhtJiWg0Ifr2e0GMkONxaCZsPRC0FUFr8RYHzYkXX5BIVl&_nc_ohc=ci2vA4kmirgAX_MvxAD&tn=4HiuM3vHQO-3CHmB&_nc_ht=scontent.fdac22-1.fna&oh=00_AT80o_JV_8XQayHVCzSJit1WkD1D9lEQe6Rbo_z7Mx5QrA&oe=61C8E9DA)
 
 
