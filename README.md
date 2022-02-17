@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
 
-![Declare Variable, not War.](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/222553587_1217531228672120_7685457896046205884_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF9OEvEilf_r9Jr83dxja4W7Qw9yw_5obTtDD3LD_mhtJiWg0Ifr2e0GMkONxaCZsPRC0FUFr8RYHzYkXX5BIVl&_nc_ohc=ci2vA4kmirgAX_MvxAD&tn=4HiuM3vHQO-3CHmB&_nc_ht=scontent.fdac22-1.fna&oh=00_AT80o_JV_8XQayHVCzSJit1WkD1D9lEQe6Rbo_z7Mx5QrA&oe=61C8E9DA)
+<img src="https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/243975909_1263692424056000_2274100451498392242_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEGUFzb04Oc1v7vLvgdRvR4VWsBpsRvqUZVawGmxG-pRkuOCeMR401s2023FHdc7Anxd4M1r_cjJ2ujoRIQ14Cr&_nc_ohc=ePrUPh5_X78AX86YM01&_nc_ht=scontent.fcgp13-1.fna&oh=00_AT_FKTNM2a90-cZ7lUP3T2tTvQuRGjKJWQl3xk2g49UX-Q&oe=6212CEF9" alt="Your image title" width="1920" height ="920"/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
