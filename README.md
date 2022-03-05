@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
 
-<img src="https://scontent.fcgp13-1.fna.fbcdn.net/v/t39.30808-6/243975909_1263692424056000_2274100451498392242_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEGUFzb04Oc1v7vLvgdRvR4VWsBpsRvqUZVawGmxG-pRkuOCeMR401s2023FHdc7Anxd4M1r_cjJ2ujoRIQ14Cr&_nc_ohc=ePrUPh5_X78AX86YM01&_nc_ht=scontent.fcgp13-1.fna&oh=00_AT_FKTNM2a90-cZ7lUP3T2tTvQuRGjKJWQl3xk2g49UX-Q&oe=6212CEF9" alt="Focus on your Mark" />
+<img src="https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/241324672_1250192768739299_6142480811170074658_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHZRpwYEyiz6BuUmfkdiPxnNdFy4i2pGlg10XLiLakaWMze6mqHUME2DCYML7v37vEOeiJRHxpCzdT-XhXScxi6&_nc_ohc=BFKMGmlPKoUAX9RddtL&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-cmxgrup2G35EiJ_o1JxQdgOoLnUVzaH_6H8Igyl1CqA&oe=62272959" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
