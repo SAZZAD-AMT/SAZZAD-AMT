@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
 
-<img src="[qw.jpg](https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true)" />
+<img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
