@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
-
-
 <div align="center">
     <a href="https://sazzad-amt.github.io/s.portfolio.con/">PORTFOLIO</a>
+</div>
+
+<div align="center">
     <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true" alt="Image Description">
 </div>
 
