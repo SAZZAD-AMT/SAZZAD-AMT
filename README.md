@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
 <h3 align="center">CSE at EWU</h3>
 
-<img src="https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/241324672_1250192768739299_6142480811170074658_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeHZRpwYEyiz6BuUmfkdiPxnNdFy4i2pGlg10XLiLakaWMze6mqHUME2DCYML7v37vEOeiJRHxpCzdT-XhXScxi6&_nc_ohc=BFKMGmlPKoUAX9RddtL&_nc_ht=scontent.fdac22-1.fna&oh=00_AT-cmxgrup2G35EiJ_o1JxQdgOoLnUVzaH_6H8Igyl1CqA&oe=62272959" />
+<img src="qw.jpg" />
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
