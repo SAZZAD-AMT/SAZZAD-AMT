@@ -2,7 +2,7 @@
 <h3 align="center">CSE at EWU</h3>
 
 <div align="center">
-    <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true" width="1000" height="720" alt="Image Description">
+    <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true" alt="Image Description">
 </div>
 
 
