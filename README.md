@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/qw.jpg?raw=true" alt="Image Description">
+    <img src="img.png" alt="Image Description">
 </div>
 
 
