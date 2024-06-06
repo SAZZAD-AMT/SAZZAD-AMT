@@ -3,11 +3,11 @@
 <div align="center">
     <a href="https://sazzad-amt.github.io/s.portfolio.con/">PORTFOLIO</a>
 </div>
-
+<h1>
 <div align="center">
     <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/img.png?raw=true" alt="Image Description">
 </div>
-
+</h2>
 ## 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
 
