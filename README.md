@@ -8,8 +8,7 @@
     <img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/main/img.png?raw=true" alt="Image Description">
 </div>
 
-
-
+## 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
 
 - 🌱 I’m currently learning **PHP, JAVA, JS, PYTHON,C++,HTML,DJANGO etc**
