@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/SAZZAD-AMT/s.portfolio.con/main/sazzad_fromal_2026.png](https://github.com/SAZZAD-AMT/s.portfolio.con/blob/795422dc8ad96753e6f5faa4d81762457a291f75/sazzad_formal_2026.jpg?raw=true)" width="160" style="border-radius: 50%;" alt="Sazzad Hossen"/>
+<img src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/795422dc8ad96753e6f5faa4d81762457a291f75/sazzad_formal_2026.jpg?raw=true" width="160" style="border-radius: 50%;" alt="Sazzad Hossen"/>
 
 # SAZZAD HOSSEN
 ### 🚀 Data Engineer · Big Data · ML · ETL Architect
