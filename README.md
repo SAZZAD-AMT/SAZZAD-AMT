@@ -1,54 +1,178 @@
-<h1 align="center">Hi 👋, I'm SAZZAD HOSSEN</h1>
-<h3 align="center">CSE at EWU</h3>
 <div align="center">
-    <a href="https://sazzad-amt.github.io/s.portfolio.con/">PORTFOLIO</a>
+
+<img src="[https://raw.githubusercontent.com/SAZZAD-AMT/s.portfolio.con/main/sazzad_fromal_2026.png](https://github.com/SAZZAD-AMT/s.portfolio.con/blob/795422dc8ad96753e6f5faa4d81762457a291f75/sazzad_formal_2026.jpg?raw=true)" width="160" style="border-radius: 50%;" alt="Sazzad Hossen"/>
+
+# SAZZAD HOSSEN
+### 🚀 Data Engineer · Big Data · ML · ETL Architect
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00e5ff?style=for-the-badge&labelColor=0d1120)](https://sazzad-amt.github.io/s.portfolio.con/)
+[![Email](https://img.shields.io/badge/📧_Email-sazzad01794@gmail.com-7c3aed?style=for-the-badge&labelColor=0d1120)](mailto:sazzad01794@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sazzad-amt)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAZZAD-AMT)
+
 </div>
-<h1>
+
+---
+
+## 💬 About Me
+
+> *"May you ask me any question, I might not know the answer immediately but I will definitely find the answer — This is my SPEED."*
+
+Dynamic **Data Engineer** with expertise in Data Science & Analytics, Apache Airflow, Spark, ETL pipelines, and Data Warehouses (Iceberg, BigQuery, Redshift). Strong command of advanced SQL — CTEs, window functions, aggregates, subqueries, and performance tuning — paired with relational databases and NoSQL systems like MongoDB.
+
+Experienced in **Python, Kubernetes, Docker, Bash scripting, CI/CD Pipelines, REST APIs, Power BI, MinIO-S3**, and cloud platforms **(AWS, GCP, Azure, Salesforce)**. Dedicated to data integrity, optimized workflows, and driving business growth through data-driven decision-making.
+
+---
+
+## 💼 Current Role
+
+| | |
+|---|---|
+| 🏢 **Company** | Walton Hi-Tech Industries PLC. |
+| 💼 **Title** | Senior Deputy Assistant Director — Data Engineer |
+| 📅 **Since** | October 2024 — Present |
+| 📍 **Location** | Basundhara RA, Dhaka, Bangladesh |
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚡ Data Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica_IICS-FF4D00?style=flat-square&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-ETL-orange?style=flat-square)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-003B6F?style=flat-square)
+![MinIO](https://img.shields.io/badge/MinIO_S3-C72E49?style=flat-square&logo=minio&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+### 🗄️ Databases & Warehouses
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### 🐍 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 📊 Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+## 📋 Employment History
+
+```
+🏢 Walton Hi-Tech Industries PLC.     Senior Deputy Assistant Director (Data Engineer)   Oct 2024 – Present
+   ├─ ETL/ELT pipelines with Apache Airflow & Spark
+   ├─ Data Warehouse on MinIO/S3 using Iceberg tables
+   ├─ Kubernetes orchestration & REST API development
+   └─ Power BI dashboards for business intelligence
+
+🏢 NaimIT / BusyQA                    Data QA Engineer                                   May 2023 – Jul 2024
+   ├─ ETL pipelines via Informatica PowerCenter
+   ├─ AWS S3, EC2, Glue, Redshift, QuickSight
+   ├─ SQL validation & Pentaho workflows
+   └─ Salesforce for sales analytics
+```
+
+---
+
+## 🔬 Research Papers
+
+| # | Title | Source |
+|---|-------|--------|
+| 01 | [A Policy Framework for Cost Effective Production of Electricity using Renewable Energy](https://link.springer.com/chapter/10.1007/978-3-031-50330-6_33) | 📗 Springer |
+| 02 | [Medical Insurance Cost Prediction Using Machine Learning](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OWebBUYAAAAJ&citation_for_view=OWebBUYAAAAJ:UeHWp8X0CEIC) | 🎓 Google Scholar |
+| 03 | [A Brain MRI based Hippocampus Segmentation System using Image Processing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OWebBUYAAAAJ&citation_for_view=OWebBUYAAAAJ:Tyk-4Ss8FVUC) | 🎓 Google Scholar |
+| 04 | [Web-Based Virtual Laboratories: Augmenting Science Education Beyond the Classroom](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OWebBUYAAAAJ&citation_for_view=OWebBUYAAAAJ:zYLM7Y9cAGgC) | 🎓 Google Scholar |
+| 05 | [A System for Garbage Detection and Classification Using Machine Learning](https://scholar.google.com/citations?view_op=list_works&hl=en&user=OWebBUYAAAAJ) | 🎓 Google Scholar |
+| 06 | [Enhancing Banking Security Using Big Data Analytics and Machine Learning for Fraud Detection](https://www.researchgate.net/publication/397609114_Enhancing_Banking_Security_Using_Big_Data_Analytics_and_Machine_Learning_for_Fraud_Detection) | 🔬 ResearchGate |
+| 07 | [Fast, Fault-Tolerant, and Affordable: A Modern Data Lakehouse ETL Pipeline for Emerging Economies](https://ieeexplore.ieee.org/abstract/document/11491349) | ⚡ IEEE Xplore |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | GPA |
+|--------|-------------|------|-----|
+| 🎓 M.Sc in CSE *(In Progress)* | East West University, BD | 2025 – Present | 3.44 / 4.00 |
+| 🎓 B.Sc in CSE | East West University, BD | 2023 | 3.03 / 4.00 |
+| 📘 HSC | Naogaon Govt. College, BD | 2018 | 3.58 / 5.00 |
+| 📗 SSC | MAYAMARI T.L.B High School, BD | 2016 | 5.00 / 5.00 |
+
+---
+
+## 📜 Certifications
+
+- ✅ Introduction to Data Science
+- ✅ Data Analytics Essentials
+- ✅ Cyber Threat Management
+- ✅ Ethical Hacker
+- ✅ IoT & Cloud Enabled Renewable Energy for Rural Development
+- ✅ Introduction to Cybersecurity
+- 🏅 RoboTech Valley — Campus Ambassador & Information Secretary
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-    <img 
-        src="https://github.com/SAZZAD-AMT/s.portfolio.con/blob/795422dc8ad96753e6f5faa4d81762457a291f75/sazzad_formal_2026.jpg?raw=true" 
-        alt="Sazzad Hossen"
-        width="350">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAZZAD-AMT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060810&title_color=00e5ff&icon_color=7c3aed&text_color=e8eaf6)](https://github.com/SAZZAD-AMT)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZAD-AMT&layout=compact&theme=tokyonight&hide_border=true&bg_color=060810&title_color=00e5ff&text_color=e8eaf6)](https://github.com/SAZZAD-AMT)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAZZAD-AMT&theme=tokyonight&hide_border=true&background=060810&ring=00e5ff&fire=7c3aed&currStreakLabel=00e5ff)](https://github.com/SAZZAD-AMT)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SAZZAD-AMT&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
-</h2>
-## 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SAZZAD-AMT)  
 
-- 🌱 I’m currently learning **PHP, JAVA, JS, PYTHON,C++,HTML,DJANGO etc**
+---
 
-- 📫 How to reach me **sazzad01794@gmail.com**
+## 🤝 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sazzad_ssen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sazzad_ssen" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sazzad hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sazzad hossen" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sazzad.hossen.752861/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sazzad.hossen.752861/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3cmmnulfvzn-zd6p52x12q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3cmmnulfvzn-zd6p52x12q" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/sazzad_hossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sazzad_hossen" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Rp7fD2eC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Rp7fD2eC" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@sazzad_ssen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sazzad-amt)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sazzad.hossen.752861/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/sazzad_hossen)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rp7fD2eC)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3cMmnULFVZn-zd6p52X12Q)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sazzadhossen38870)
 
+</div>
 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SAZZAD-AMT)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZAD-AMT)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SAZZAD-AMT&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SAZZAD-AMT)  
-
-![GitHub metrics](https://metrics.lecoq.io/SAZZAD-AMT)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SAZZAD-AMT)  
-
-![Profile views](https://gpvc.arturio.dev/SAZZAD-AMT)  
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/sazzadhossen38870"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SAZZAD HOSSEN" /></a></p><br><br>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAZZAD-AMT&color=00e5ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <br><br>
+  <sub>⚡ Data Engineer · Dhaka, Bangladesh · Open to Opportunities</sub>
+</div>
