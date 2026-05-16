@@ -143,10 +143,6 @@ Experienced in **Python, Kubernetes, Docker, Bash scripting, CI/CD Pipelines, RE
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAZZAD-AMT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060810&title_color=00e5ff&icon_color=7c3aed&text_color=e8eaf6)](https://github.com/SAZZAD-AMT)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAZZAD-AMT&layout=compact&theme=tokyonight&hide_border=true&bg_color=060810&title_color=00e5ff&text_color=e8eaf6)](https://github.com/SAZZAD-AMT)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SAZZAD-AMT&theme=tokyonight&hide_border=true&background=060810&ring=00e5ff&fire=7c3aed&currStreakLabel=00e5ff)](https://github.com/SAZZAD-AMT)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=SAZZAD-AMT&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
